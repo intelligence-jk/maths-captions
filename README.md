@@ -1,4 +1,4 @@
-# SCRIBE: Subtitles that Carry Real Integrals, Brackets and Equations
+# GRAMMATEUS: Greek for the scribe who wrote down what was said
 
 Formerly `maths-captions`.
 
