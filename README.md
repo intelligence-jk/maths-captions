@@ -1,4 +1,6 @@
-# maths-captions
+# SCRIBE: Subtitles that Carry Real Integrals, Brackets and Equations
+
+Formerly `maths-captions`.
 
 Make SRT or WebVTT captions for a maths video from a script of timed lines.
 
